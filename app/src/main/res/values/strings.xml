@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstKotlin</string>
+    <string name="tv_login">Hello evety one, Enter the button belov)</string>
+    <string name="bt_login">Login</string>
+</resources>
